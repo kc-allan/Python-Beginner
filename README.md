@@ -7,3 +7,5 @@ Type in a phrase an let Python abbrevite it for you
 
 <h3>odd-or-even.py</h3>
 A simple game that tells you if you guessed an odd or even number
+
+<h3>vigenere_table.py<h3>
