@@ -1,4 +1,4 @@
-# Python-Beginner
+# Python
 
 This is a just collection of my Python beginner projects.
 
