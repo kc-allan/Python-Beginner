@@ -9,6 +9,6 @@ Type in a phrase an let Python abbrevite it for you
 A simple game that tells you if you guessed an odd or even number
 
 <h3>vigenere_cipher.py</h3>
-- This script takes a message and returns an encrypted code 
+- This script takes a message and returns an encrypted code </br>
 - Also within is a decoder for the encrypted messages 
 - Encryption and decryption make use of the Vigenere Cipher with added functionality.
