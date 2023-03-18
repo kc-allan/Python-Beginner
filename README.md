@@ -10,5 +10,5 @@ A simple game that tells you if you guessed an odd or even number
 
 <h3>vigenere_cipher.py</h3>
 - This script takes a message and returns an encrypted code </br>
-- Also within is a decoder for the encrypted messages 
+- Also within is a decoder for the encrypted messages </br>
 - Encryption and decryption make use of the Vigenere Cipher with added functionality.
